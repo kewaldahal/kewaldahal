@@ -9,7 +9,7 @@ i solve the problem I'm facing with the help of code .
 * 🌍  I'm based in Birtamode Jhapa
 * 🖥️  See my portfolio at [my portfolio](http://kewaldahal.com.np)
 * ✉️  You can contact me at [kewal7.me@gmail.com](mailto:kewal7.me@gmail.com)
-* 🧠  I'm currently learning Langchain and Blockchain
+* 🧠  I'm currently learning Langchain
 * 💬  Ask me about I love car(t)s
 
 <p align="left">
